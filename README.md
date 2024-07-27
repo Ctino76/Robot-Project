@@ -1,2 +1,2 @@
 # Robot-Project
-RaspRoveer and DogZilla
+RaspRover and DogZilla
